@@ -52,7 +52,7 @@ local.properties
 ######################
 # Intellij
 ######################
-/SpringBackend/.idea/
+.idea/
 *.iml
 *.iws
 *.ipr
